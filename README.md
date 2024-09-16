@@ -1,7 +1,11 @@
 # Deploy ML models using FastAPI, Docker
 
 ## Steps:
-### 1. Develop, perform EDA and Save the Model [Open Colab](https://colab.research.google.com/drive/1uaALcaatvxOu42IhQA4r0bahfdpw-Z7v?usp=sharing)
+### 1. Develop, perform EDA and Save the Model [Open Colab](https://colab.research.google.com/drive/1mUpaJymx4LLs0DeLzgfDH6cR-RGuPH0Q?usp=sharing)
+```
+Note: Make sure the Numpy and scikit-learn versions along with python versions are same within Colab and the Heroku app
+```
+
 ### 2. Create Docker Container
 
 ```bash
