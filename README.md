@@ -1,4 +1,4 @@
-# Deploy ML models using FastAPI, Docker
+# Deploy ML models using FastAPI, Docker and Sklearn model logged using MLFlow
 
 ## Steps:
 ### 1. Develop, perform EDA and Save the Model [Open Colab](https://colab.research.google.com/drive/1mUpaJymx4LLs0DeLzgfDH6cR-RGuPH0Q?usp=sharing)
