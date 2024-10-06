@@ -9,7 +9,6 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent
 MLFLOW_RUN_ID = '1e9fb8e091714130b07ac2b9644fa17b'
 
 # Load the model from MLflow
-# mlflow_model_path = f'runs:/{MLFLOW_RUN_ID}/language_detection_model'
 mlflow_model_path = f'{BASE_DIR}/mlruns/{MLFLOW_RUN_ID}/artifacts/language_detection_model'  
 model = mlflow.pyfunc.load_model(mlflow_model_path)
 
