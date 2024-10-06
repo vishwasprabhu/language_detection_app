@@ -3,7 +3,7 @@
 ## Steps:
 ### 1. Develop, perform EDA and Save the Model [Open Colab](https://colab.research.google.com/drive/1mUpaJymx4LLs0DeLzgfDH6cR-RGuPH0Q?usp=sharing)
 ```
-Note: Make sure the Numpy and scikit-learn versions along with python versions are same within Colab and the Heroku app
+Note: Make sure the Numpy, scikit-learn and mlflow versions along with python versions are same within Colab and the local requirements.txt
 ```
 
 ### 2. Create Docker Container
@@ -26,3 +26,6 @@ git commit -m "initial commit"
 #Add remote and create main branch
 git remote add origin git@github.com:vishwasprabhu/language_detection_app.git
 git push --set-upstream origin main 
+```
+### 4. Check 0.0.0.0/docs to try out the API calls!
+![Fast API](./src/fastapi.gif)
