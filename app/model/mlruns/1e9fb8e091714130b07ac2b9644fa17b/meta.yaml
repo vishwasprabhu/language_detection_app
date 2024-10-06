@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/515601146738796119/1e9fb8e091714130b07ac2b9644fa17b/artifacts
+end_time: 1728172606990
+entry_point_name: ''
+experiment_id: '515601146738796119'
+lifecycle_stage: active
+run_id: 1e9fb8e091714130b07ac2b9644fa17b
+run_name: abundant-sponge-960
+run_uuid: 1e9fb8e091714130b07ac2b9644fa17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728172599729
+status: 3
+tags: []
+user_id: root
